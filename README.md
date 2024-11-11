@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Akhtar</h1>
-<h3 align="center">A passionate Artificial Engineer from India</h3>
+<h3 align="center">A passionate ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan400&label=Profile%20views&color=0e75b6&style=flat" alt="farhan400" /> </p>
 
